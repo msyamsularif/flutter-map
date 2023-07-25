@@ -3,7 +3,7 @@
 This project contains the results of learning research in implementing Google Maps on Flutter.
 Here is a demo of the flutter maps application
 
-<img src="https://github.com/msyamsularif/flutter-map/blob/main/assets/doc/Doc%20Flutter%20Map.gif" width="640" height="1280"/>
+<img src="https://github.com/msyamsularif/flutter-map/blob/main/assets/doc/Doc%20Flutter%20Map.gif" width="320" height="640"/>
 
 ## Features
 
